@@ -18,7 +18,7 @@ Output must be the resulting number of miles the vehicle may be driven without f
 <li>Insert a pause to allow user verification of final values of all variables</li>
 <li>return statement to end main function</li>
 <h2>User Documentation:</h2>
-User may open the executable or run the solution in Visual Studio via Debugger (F5). User will input a whole number (round up based on the tenth, so for .01-.49 round down, and .50-.99 round up) for the fuel capacity (cap) and a decimal value for miles per gallon (mpg). The result will stay open until the user presses a key to close the program and terminate the process.
+User can view code for Main.cpp as the main source code for the file. User may open the executable or run the solution in Visual Studio via Debugger (F5). User will input a whole number (round up based on the tenth, so for .01-.49 round down, and .50-.99 round up) for the fuel capacity (cap) and a decimal value for miles per gallon (mpg). The result will stay open until the user presses a key to close the program and terminate the process.
 <h2>Expected errors:</h2> If you input the wrong type of data for the capacity, the program will run incorrectly and give an incorrect result, please be cautious when inputting your fuel capacity and make sure it is a whole number.
 
 <h3>Additional Notes/Request</h3>
